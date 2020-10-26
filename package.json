@@ -1,16 +1,16 @@
 {
-  "name": "bacchain-sdk",
+  "name": "bacchain-jssdk",
   "version": "1.0.0",
-  "description": "bacchain-sdk",
+  "description": "bacchain-jssdk",
   "main": "index.js",
   "directories": {
-    "example": "example"
+    "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "HYL",
+  "license": "MIT",
   "dependencies": {
     "bech32": "^1.1.2",
     "bip32": "^1.0.2",
@@ -18,5 +18,21 @@
     "bitcoinjs-lib": "^4.0.2",
     "node-fetch": "^2.6.0",
     "secp256k1": "^3.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcv/bacchain-jssdk.git"
+  },
+  "keywords": [
+    "BAC",
+    "Chain",
+    "Blockchain",
+    "Digital",
+    "Assets"
+  ],
+  "bugs": {
+    "url": "https://github.com/bitcv/bacchain-jssdk/issues"
+  },
+  "homepage": "https://github.com/bitcv/bacchain-jssdk#readme"
 }
