@@ -1,6 +1,6 @@
 {
   "name": "bacchain-jssdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bacchain-jssdk",
   "main": "index.js",
   "directories": {
